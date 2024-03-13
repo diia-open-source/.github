@@ -7,3 +7,10 @@ The application was created so that Ukrainians could interact with the state in 
 
 # Get started
 Open Source, or Open Code, is software with code that can be seen by anyone. Open Source shows the quality of programming as well as the logic of application's operation. By making Diia's code publicly available, we gave the opportunity to review, edit, or even modify it by any techie.
+
+[![SWUbanner]][SWUdocs]
+
+[SWUbanner]:
+https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-team.svg
+[SWUdocs]:
+https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md
