@@ -1,4 +1,4 @@
-![Diia - Source code of the government product open for everyone](https://github.com/diia-open-source/.github/blob/main/profile/HEADER.png)
+![Diia - Source code of the government product open for everyone](https://github.com/diia-open-source/.github/blob/main/profile/header%20profile.png)
 
 # Welcome
 Diia is an app with access to citizen’s digital documents and government services.
