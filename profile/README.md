@@ -9,8 +9,6 @@ The application was created so that Ukrainians could interact with the state in 
 Open Source, or Open Code, is software with code that can be seen by anyone. Open Source shows the quality of programming as well as the logic of application's operation. By making Diia's code publicly available, we gave the opportunity to review, edit, or even modify it by any techie.
 
 # Short-term Roadmap
-In response to significant community involvement in building and testing the Diia App system as a whole, we will simplify this procedure by adding backend packages to the public npm registry. This will enable us to support actual "package-lock.json" files to eliminate all dependency-related issues and remove local package links. The estimated time of arrival for this update is May 2024.
+We will add CI steps through GitHub Actions to test created Pull Requests for backend repositories.
 
-After that, we plan to add CI steps through GitHub Actions to test created Pull Requests for backend repositories.
-
-Also, it should be noted that diia-open-source repositories are not an as-is representation of the internal codebase. Instead, they are presented as a snapshot of a particular version for each service or package. We were overwhelmed by the community's passion and feedback and are working on streamlining and simplifying the process for accepting your contributions into the main codebase. Currently, we're evaluating and manually accepting such PRs without GitHub merges to avoid split-brain between codebases.
+Also, it should be noted that diia-open-source repositories are not an as-is representation of the internal codebase. Instead, they are presented as a snapshot of a particular version for each service or package. We were overwhelmed by the community's passion and feedback and are working on streamlining and simplifying the process for accepting your contributions into the main codebase.
